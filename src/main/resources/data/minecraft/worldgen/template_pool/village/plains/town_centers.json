@@ -29,25 +29,9 @@
 		},
 		{
 			"element": {
-				"element_type": "minecraft:list_pool_element",
-				"elements": [
-					{
-						"element_type": "minecraft:legacy_single_pool_element",
-						"location": "dynamictrees:village/plains/town_centers/plains_meeting_point_3",
-						"processors": "minecraft:mossify_70_percent",
-						"projection": "rigid"
-					},
-					{
-						"element_type": "dynamictrees:tree_pool_element",
-						"offset": [
-							5,
-							1,
-							5
-						],
-						"projection": "rigid",
-						"species": "dynamictrees:oak"
-					}
-				],
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "minecraft:village/plains/town_centers/plains_meeting_point_3",
+				"processors": "minecraft:mossy_air_fill_70",
 				"projection": "rigid"
 			},
 			"weight": 50
@@ -81,25 +65,9 @@
 		},
 		{
 			"element": {
-				"element_type": "minecraft:list_pool_element",
-				"elements": [
-					{
-						"element_type": "minecraft:legacy_single_pool_element",
-						"location": "dynamictrees:village/plains/town_centers/plains_meeting_point_3",
-						"processors": "minecraft:zombie_plains",
-						"projection": "rigid"
-					},
-					{
-						"element_type": "dynamictrees:tree_pool_element",
-						"offset": [
-							5,
-							1,
-							5
-						],
-						"projection": "rigid",
-						"species": "dynamictrees:oak"
-					}
-				],
+				"element_type": "minecraft:legacy_single_pool_element",
+				"location": "minecraft:village/plains/zombie/town_centers/plains_meeting_point_3",
+				"processors": "minecraft:zombie_plains",
 				"projection": "rigid"
 			},
 			"weight": 1
