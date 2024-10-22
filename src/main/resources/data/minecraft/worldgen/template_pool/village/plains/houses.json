@@ -187,7 +187,7 @@
 				"processors": "minecraft:mossy_air_fill_10",
 				"projection": "rigid"
 			},
-			"weight": 5
+			"weight": 1
 		},
 		{
 			"element": {
@@ -196,7 +196,7 @@
 				"processors": "minecraft:mossy_air_fill_10",
 				"projection": "rigid"
 			},
-			"weight": 1
+			"weight": 2
 		},
 		{
 			"element": {

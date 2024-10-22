@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "${mod_authors}"
+    ],
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*"
+    },
+    "name": "${mod_name}",
+    "id": "lios_overhauled_villages",
+    "version": "${mod_version}",
+    "description": "${mod_description}",
+    "license": "${mod_license}"
+}
