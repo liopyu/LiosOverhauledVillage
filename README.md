@@ -20,15 +20,7 @@
 </ul>
 <p>&nbsp;</p>
 <p><a href="https://url-shortener.curseforge.com/seMy8" rel="nofollow"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/cvqfFqD/lovbisect.png" alt="lovbisect" width="803" height="77"> </a></p>
-<p style="text-align: left;"><span style="color: #95a5a6;"><strong><span style="font-size: 24px;"><span style="font-size: 24px;">Youtube Reviews:</span></span></strong><strong>&nbsp;</strong></span></p>
-<div class="spoiler">
-<p>-Reviewed At 17:25-</p>
-<p><iframe src="https://www.youtube.com/embed/4GQ9mz_q8ko?t=1045" width="638" height="358" allowfullscreen="allowfullscreen"></iframe></p>
-<p>-Reviewed At 9:54-</p>
-<p><iframe src="https://www.youtube.com/embed/nFs0BDD85kw?t=595s" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
-<p>-Reviewed At 2:52-<br><iframe src="https://www.youtube.com/embed/VTaizc8Gsmc?t=172s" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
-<p>&nbsp;</p>
-</div>
+
 <h2><a href="https://discord.com/invite/pGkUmgGcsY" rel="nofollow"><br><img src="https://i.ibb.co/qDNhg49/636e0a6a49cf127bf92de1e2-icon-clyde-blurple-RGB.png" width="128" height="97"><br></a></h2>
 <h2><span style="color: #95a5a6;">Usage in Modpacks</span></h2>
 <p>Feel free to use <strong>Lio's Overhalued Villages</strong>&nbsp;in any Minecraft modpack of your choice. We encourage you to create diverse and exciting experiences by incorporating our mod into your customized packs. No need to seek explicit permission; just enjoy the revamped villages in a way that suits your gameplay!</p>
