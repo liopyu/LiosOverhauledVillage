@@ -332,17 +332,8 @@
 		},
 		{
 			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"location": "pneumaticcraft:villages/mechanic_house_plains",
-				"processors": "minecraft:air_fill",
-				"projection": "rigid"
-			},
-			"weight": 2
-		},
-		{
-			"element": {
 				"element_type": "minecraft:legacy_single_pool_element",
-				"location": "waystones:village/common/waystone",
+				"location": "minecraft:village/misc/cart1",
 				"processors": "minecraft:air_fill",
 				"projection": "rigid"
 			},

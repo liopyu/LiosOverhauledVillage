@@ -261,7 +261,7 @@
 		{
 			"element": {
 				"element_type": "minecraft:legacy_single_pool_element",
-				"location": "waystones:village/desert/waystone",
+				"location": "minecraft:village/misc/cart2",
 				"processors": "minecraft:air_fill",
 				"projection": "rigid"
 			},
